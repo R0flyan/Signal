@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.npm-cache/
+.env*
+!.env.example
+*.tsbuildinfo
+design-reference/chunk*.bin
+design-reference/decoded.json
+design-reference/schema.json
+design-reference/structure.txt
+design-reference/content.txt
+qa/
